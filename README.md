@@ -1,5 +1,5 @@
 # 💫 About Me:
-💙 I am a first-year student at the University of Toronto looking to pursue a CS specialist with a special interest in artificial intelligence and machine learning, as well as mathematics and UI/UX design.<br>🖥️ I am currently seeking a comprehensive study in the IT field.
+💙 I am a second year computer science specialist student at the University of Toronto with a special interest in artificial intelligence and machine learning, as well as UI/UX design.<br>🖥️ I am a highly motivated and dedicated individual with a strong proficiency in backend languages including Python and Java as well as frontend languages including HTML, CSS and Javascript. Committed to continuous learning and staying current with industry trends to drive innovation and excellence in software development.
 
 
 ## 🌐 Socials:

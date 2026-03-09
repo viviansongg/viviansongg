@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vivian  
 
-💻 I'm a fourth year Computer Science student at University of Toronto
-🎨 I enjoy building projects that combine software, AI, and creative technology
-🚀 Currently a Software Engineer Intern @ Dayforce
+<br>💻 I'm a fourth year Computer Science student at University of Toronto
+<br>🎨 I enjoy building projects that combine software, AI, and creative technology
+<br>🚀 Currently a Software Engineer Intern @ Dayforce
 
 I enjoy building tools that make technology more interactive, fun and creative! My projects often combine AI, full-stack development, and UI/UX design.
 

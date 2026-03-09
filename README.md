@@ -1,7 +1,23 @@
-# 💫 About Me:
-💙 I'm a Computer Science Specialist student at the University of Toronto with an interest in software development, machine learning, computer graphics, and UI/UX design.
-<br>🖥️ I am a highly motivated and dedicated individual proficient in backend languages such as Python, Java, C, and C++, as well as frontend languages including HTML, CSS and JavaScript. Additionally, I am experienced in frameworks such as React.js, Node.js, Vite, Three.js and Flask. 
-<br>Committed to continuous learning and staying current with industry trends to drive innovation and excellence in software development.
+# 👋 Hi, I'm Vivian  
+
+💻 I'm a fourth year Computer Science student at University of Toronto
+🎨 I enjoy building projects that combine software, AI, and creative technology
+🚀 Currently a Software Engineer Intern @ Dayforce
+
+I enjoy building tools that make technology more interactive, fun and creative! My projects often combine AI, full-stack development, and UI/UX design.
+
+Check out my personal website to get to know me better: https://vivian-song.vercel.app/
+
+# 🔨 What I'm Currently Working On
+🧠 Tetris AI Agent - experimenting with optimization algorithms (ABC/ACO) to evolve heuristic weights
+🤖 Vivianspace - a self-hosted task management site to organize my life fully configured to my personal preferences and includes integrations with applications including Google Calendar and Gmail
+🔊 Echo Sketch - an application that turns audio to art whoaaaa
+🎮 Interactive Portfolio (Portfolio V3 coming soon) - shhh its kind of a secret but its basically Stardew Valley minigame to showcase my projects :o
+
+🌱 Currently Learning
+- Optimization algorithms for AI agents
+- Interactive web experiences (WebGL / Three.js)
+- Designing AI systems that enhance creativity
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/viviansong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivian-songg/) 

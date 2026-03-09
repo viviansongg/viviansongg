@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vivian  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Vivian)](https://git.io/typing-svg)
 
 <br>💻 I'm a fourth year Computer Science student at University of Toronto
 <br>🎨 I enjoy building projects that combine software, AI, and creative technology
@@ -19,7 +19,9 @@ Check out my personal website to get to know me better: https://vivian-song.verc
 - Interactive web experiences (WebGL / Three.js)
 - Designing AI systems that enhance creativity
 
-## 🌐 Socials:
+## 🌐 Socials and Contact:
+
+Reach me via email: viviann.song006@gmail.com
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/viviansong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivian-songg/) 
 
 # 💻 Tech Stack:

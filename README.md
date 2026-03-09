@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Vivian)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&size=40&pause=1000&width=435&lines=Hi+I'm+Vivian)](https://git.io/typing-svg)
 <br>💻 I'm a fourth year Computer Science student at University of Toronto
 <br>🎨 I enjoy building projects that combine software, AI, and creative technology
 <br>🚀 Currently a Software Engineer Intern @ Dayforce

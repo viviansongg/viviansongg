@@ -13,7 +13,7 @@ Check out my personal website to get to know me better: https://vivian-song.verc
 <br>🔊 Echo Sketch - an application that turns audio to art whoaaaa
 <br>🎮 Interactive Portfolio (Portfolio V3 coming soon) - shhh its kind of a secret but its basically Stardew Valley minigame to showcase my projects :o
 
-##🌱 Currently Learning
+## 🌱 Currently Learning
 - Optimization algorithms for AI agents
 - Interactive web experiences (WebGL / Three.js)
 - Designing AI systems that enhance creativity

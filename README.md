@@ -8,7 +8,7 @@ I enjoy building tools that make technology more interactive, fun and creative! 
 Check out my personal website to get to know me better: https://vivian-song.vercel.app/
 
 ## 🔨 What I'm Currently Working On
-<br>🧠 Tetris AI Agent - experimenting with optimization algorithms (ABC/ACO) to evolve heuristic weights
+🧠 Tetris AI Agent - experimenting with optimization algorithms (ABC/ACO) to evolve heuristic weights
 <br>🤖 Vivianspace - a self-hosted task management site to organize my life fully configured to my personal preferences and includes integrations with applications including Google Calendar and Gmail
 <br>🔊 Echo Sketch - an application that turns audio to art whoaaaa
 <br>🎮 Interactive Portfolio (Portfolio V3 coming soon) - shhh its kind of a secret but its basically Stardew Valley minigame to showcase my projects :o
